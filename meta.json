@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "config": {
+    "engine": "Godot",
+    "version": "4.0",
+    "name": "Buckshot Roulette",
+    "description": "Nothing Here",
+    "url": "https://lupinevault.com/games/files/buckshot-roulette/index.html",
+  }
+}
