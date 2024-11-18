@@ -1,3 +1,4 @@
+![Main img](https://github.com/tf7software/Buckshot-Roulette-online/blob/cb3743839d3bdc905c2edc71b01409d399ebc551/buckshot.jpeg)
 # Buckshot-Roulette-online
 
 ## I do not own any assets, these were all FOUND, I didn't make these wih reverse engineering.
