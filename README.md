@@ -9,7 +9,7 @@ THIS REPO DOES NOT CONTAIN EVERYTHING YOU NEED TO RUN BUCKSHOT ROULETTE
 
 - Clone this repo
 
-- Go to [THIS](https://www.dropbox.com/scl/fi/zg37xoor16n9jw9bzwy87/index.pck?rlkey=49e8xss4xa62ymjm6dsctaku3&st=5by57zbb&dl=1) link (dropbox)
+- Download the newest asset pack (index.pck) from [Releases](https://github.com/tf7software/Buckshot-Roulette-online/releases)
 
 - Drag-and-drop the ```index.pck`` file into the root directory of this repo
 
@@ -20,3 +20,6 @@ THIS REPO DOES NOT CONTAIN EVERYTHING YOU NEED TO RUN BUCKSHOT ROULETTE
   or host it using a hosting provider
 
 # ALWAYS PROVIDE ATTRIBUTION
+
+
+© 2024-2023 Mike Klubnika
