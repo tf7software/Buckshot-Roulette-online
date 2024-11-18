@@ -21,5 +21,6 @@ THIS REPO DOES NOT CONTAIN EVERYTHING YOU NEED TO RUN BUCKSHOT ROULETTE
 
 # ALWAYS PROVIDE ATTRIBUTION
 
+___NOTE: tf7soware owns neither the assets nor the code for Buckshot Roulette, this is a product of stripping down [THIS](https://buckshotroulette.online/steam/) website, which tf7software DOES NOT OPERATE OR OWN, for [LupineVault](https://github.com/LupineVault)___
 
 © 2024-2023 Mike Klubnika
